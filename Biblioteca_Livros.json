@@ -1,0 +1,94 @@
+[
+ {
+    "titulo": "O Senhor dos Anéis",
+    "isbn": "9780132350884",
+    "autor": "J.R.R. Tolkien",
+    "ano_publicacao": 1954,
+    "genero": "Fantasia",
+    "disponibilidade": true,
+    "avaliacao": 4.9,
+    "tags": ["Literatura fantástica", "aventura", "filosofia", "romance"],
+    "detalhes": {
+        "editora": "Allen & Unwin",
+        "paginas": 1568
+    }
+ },
+  {
+    "titulo": "Código Limpo",
+    "isbn": "9780132350884",
+    "autor": "Robert Cecil Martin",
+    "ano_publicacao": 2008,
+    "genero": "Programação",
+    "disponibilidade": true,
+    "avaliacao": 4.7,
+    "tags":["Programação", "Boas práticas", "Manutençao"],
+    "detalhes": {
+        "editora": "Alta Books",
+        "paginas": 425
+    }
+ },
+  {
+    "titulo": "A Maldição do Tigre",
+    "isbn": "9788580410266",
+    "autor": "Collen Houck",
+    "ano_publicacao": 2011,
+    "genero": "Fantasia",
+    "disponibilidade": false,
+    "avaliacao": 4.8,
+    "tags": ["aventura", "romance", "literatura fantástica", "mitos hindus"],
+    "detalhes": {
+        "editora": "Editora Arqueiro",
+        "paginas": 352
+    }
+ },
+   {
+    "emprestimo": {
+        "nome_de_usuario": "Pedro Antônio",
+        "livro": "O Senhor dos Anéis",
+        "Data_de_emprestimo": "25-10-2024",
+        "Data_de_devolucao": "30-10-2024",
+        "Status": false
+    }
+ },
+   {
+    "emprestimo1": {
+        "nome_de_usuario": "Agusto Melo",
+        "livro": "A Maldição do Tigre",
+        "Data_de_emprestimo": "22-10-2024",
+        "Data_de_devolucao": "25-01-2025",
+        "Status": true
+   }
+ },
+   {
+    "emprestimo2": {
+        "nome_de_usuario": "Bruno Duarte",
+        "livro": "Código Limpo",
+        "Data_de_emprestimo": "26-10-2024",
+        "Data_de_devolucao": "27-12-2024",
+        "Status": false
+   }
+ },
+   {
+    "usuario501": {
+        "nome_de_usuario": "Pedro Antônio",
+        "email": "pedroantonio@gmail.com",
+        "telefone": "(66) 99999-1010"
+        
+   }
+ },
+  {
+   "usuario502": {
+        "nome_de_usuario": "Agusto Melo",
+        "email": "agustomelo@gmail.com",
+        "telefone": "(66) 99999-1111"
+   } 
+ },
+  {
+    "usuario503": {
+        "nome_de_usuario": "Bruno Duarte",
+        "email": "duarte@gmail.com",
+        "telefone": "(66) 99999-1515"
+  }
+ }
+]
+
